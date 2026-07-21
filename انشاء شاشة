@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <title>نظام عادل الحاج</title>
+</head>
+<body>
+
+    <div id="index">
+        <h1>الرئيسية</h1>
+        <p>نظام عادل الحاج .</p>
+    </div>
+    <hr>
+
+    <div id="login">
+        <h1>تسجيل الدخول</h1>
+        <input type="text" placeholder="اسم المستخدم">
+        <input type="password" placeholder="كلمة المرور">
+        <button>دخول</button>
+    </div>
+    <hr>
+
+    <div id="admin">
+        <h1>لوحة التحكم</h1>
+        <p>هنا تظهر أدوات الإدارة.</p>
+    </div>
+    <hr>
+
+    <div id="sell">
+        <h1>شاشة المبيعات</h1>
+        <input type="text" placeholder="اسم المنتج">
+        <button>إضافة للبيع</button>
+    </div>
+
+</body>
+</html>
